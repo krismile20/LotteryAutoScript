@@ -17,7 +17,7 @@
     ![步骤2](https://ftp.bmp.ovh/imgs/2020/11/dcc3f30e22f6b12a.png)
 
 3. 如果想使用**微信推送**服务请用同样的方法填入`SCKEY`  
-    [Server酱](http://sc.ftqq.com/3.version)  
+    [Server酱](http://sc.ftqq.com/3.version)  123
     具体方法可以参考同样参考[BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)
 
 4. 随便改一下此文件再作一次提交便自动运行  
