@@ -4,7 +4,7 @@
 > [Actions官方文档](https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions)
 
 默认整点运行,只转发非官方抽奖
-## 操作步骤
+## 操作步骤22
 1. fork本仓库  
 
 2. 填入COOKIE  
